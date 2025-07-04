@@ -7,6 +7,8 @@ main
 
 # === Png files ===
 *.png 
+# Except an image that is used to illustrate the ReadMe
+!Figure_1.png
 
 # === Other files ===
 *.pdf
