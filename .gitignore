@@ -9,6 +9,5 @@ main
 *.png 
 
 # === Other files ===
-plots.py
 *.pdf
 **/.DS_Store
