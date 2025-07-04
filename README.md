@@ -1,5 +1,5 @@
 # Quadtree
-Quadtree implementation
+Quadtree implementation : Cpp short project during my studies at KTH.
 
 # Instruction for compiling
 g++ -std=c ++17 -Wall -o main main.cpp QuadTree.cpp
