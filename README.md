@@ -6,5 +6,4 @@ Folder ./utilities was given for the project.
 g++ -std=c ++17 -Wall -o main main.cpp QuadTree.cpp
 ./main
 
-Python file can be used to plot the results of the quadtree on a map of the sweden lakes.
-Use the plot.py file for it.
+Python file are automatically created during execution, they can be used to plot the results of the quadtree on a map of the sweden lakes (don't forget to uncomment last line in the python file to have a background) or for random points.
