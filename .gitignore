@@ -1,0 +1,14 @@
+# === VS Code configuration directory ===
+.vscode
+.venv
+
+# === Executable used to create the quadtree ===
+main
+
+# === Png files ===
+*.png 
+
+# === Other files ===
+plots.py
+*.pdf
+**/.DS_Store
